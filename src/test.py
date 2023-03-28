@@ -20,5 +20,3 @@ def Triangle(a, b):
     return c
 
 print (Triangle(3, 7))
-
-
